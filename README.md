@@ -39,6 +39,7 @@
       <li>Microsoft Azure AI Machine Learning</li>
       <li>Microsoft Azure Web Apps</li>
       <li>Mac, Windows OS</li>
+  <li>VSCode</li>
     </ul>
     
 <h2>使用技術</h2>
