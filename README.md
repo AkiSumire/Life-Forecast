@@ -1,4 +1,4 @@
-# Life
+# Life forecast
 <p>MS*Intelプロジェクトにて制作</p>
 <h2>概要</h2>
   <h3>経緯</h3>
