@@ -49,6 +49,5 @@
 <h2>使用技術</h2>
   <ul>
       <li>React(TypeScript)</li>
-      <li>PHP</li>
       <li>Python</li>
     </ul>
