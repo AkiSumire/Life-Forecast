@@ -41,7 +41,7 @@
 <h2>開発環境</h2>
   <ul>
       <li>Microsoft Azure AI Machine Learning</li>
-      <li>Microsoft Azure Web Apps</li>
+      <li>Microsoft Azure App Service</li>
       <li>Mac, Windows OS</li>
   <li>VSCode</li>
     </ul>
